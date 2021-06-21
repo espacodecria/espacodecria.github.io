@@ -1,0 +1,32 @@
+/* CSS Document */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+   font-family: 'Open Sans',serif;
+   margin: 0px;
+   background: #003399;
+   text-align: center;
+}
+
+img{
+    max-width: 50%;
+    margin: 24px 0;
+}
+
+div{
+	box-sizing: border-box;
+    width: 90%;
+    margin: 24px auto;
+    max-width: 600px;
+    background: #fff;
+    padding: 24px 36px;
+    text-align: left;
+    line-height: 2em;
+}
+
+small{
+    color: #fff;
+    line-height: 48px;
+    font-size: 14px;
+    font-weight: 600;
+}
